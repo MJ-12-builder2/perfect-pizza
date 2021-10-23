@@ -56,6 +56,6 @@ body{
 @media (min-width:960px) {
     body {
         background-color: #c7bc1d;
-        display: flex;
+        display: block;
     }
 }
