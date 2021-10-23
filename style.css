@@ -5,6 +5,7 @@ body{
 
 .Perfect_Pizza{
     text-align: center;
+    display: inline-block;
 }
 
 .pizzas{
@@ -48,7 +49,7 @@ body{
 .Contact_Details{
     background-color: #56d700;
     text-align: center;
-    display: block;
+    display: inline-block;
 }
 
 
