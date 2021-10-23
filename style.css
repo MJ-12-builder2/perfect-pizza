@@ -21,23 +21,27 @@ body{
 .Small_Pizza{
     background-color: #FFCF00;
     flex: 1;
-    margin-bottom: 0.5em;
+    margin: 0.5em;
     display: flexbox;
+    padding: 1em;
+    margin-left: 1em;
   }
 
 .Medium_Pizza{
     background-color: #EE6123;
     flex: 1;
-    margin-bottom: 0.5em;
+    margin: 0.5em;
     display: flexbox;
+    padding: 1em;
 }
 
 .Large_Pizza{
     background-color: #FA003F;
     flex: 1;
-    margin-bottom: 0.5em;
+    margin: 0.5em;
     display: flexbox;
-    
+    padding: 1em;
+    margin-right: 1em;  
 }
 
 
