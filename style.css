@@ -13,36 +13,23 @@ body{
     margin: 1em;
     padding: 1em;
     text-align: center;
-    margin-bottom: 0.5em;
-    border-radius: 1em;
-    display: flex;
+    flex: 1;
+    display: flexbox;
+    padding: 1em;
+    margin-left: 1em;
     }
 
 .Small_Pizza{
     background-color: #FFCF00;
-    flex: 1;
-    margin: 0.5em;
-    display: flexbox;
-    padding: 1em;
-    margin-left: 1em;
   }
 
 .Medium_Pizza{
     background-color: #EE6123;
-    flex: 1;
-    margin: 0.5em;
-    display: flexbox;
-    padding: 1em;
-}
+    }
 
 .Large_Pizza{
     background-color: #FA003F;
-    flex: 1;
-    margin: 0.5em;
-    display: flexbox;
-    padding: 1em;
-    margin-right: 1em;  
-}
+    }
 
 
 .Contact_Details{
