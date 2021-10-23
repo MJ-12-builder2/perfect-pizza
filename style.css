@@ -39,10 +39,15 @@ body{
     }
 
 
+@media (min-width:960px) {
+    body {
+        background-color: #fff;
+        text-align: center;
+    }
+}
 @media (min-width:760px) {
     body {
         background-color: #c7bc1d;
-        display: block;
         text-align: center;
     }
 }
