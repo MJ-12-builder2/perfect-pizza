@@ -15,22 +15,28 @@ body{
     text-align: center;
     margin-bottom: 0.5em;
     border-radius: 1em;
-    display: inline-block;
+    display: flex;
     }
 
 .Small_Pizza{
     background-color: #FFCF00;
     flex: 1;
+    margin-bottom: 0.5em;
+    display: flexbox;
   }
 
 .Medium_Pizza{
     background-color: #EE6123;
     flex: 1;
+    margin-bottom: 0.5em;
+    display: flexbox;
 }
 
 .Large_Pizza{
     background-color: #FA003F;
     flex: 1;
+    margin-bottom: 0.5em;
+    display: flexbox;
     
 }
 
