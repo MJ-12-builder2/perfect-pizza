@@ -53,7 +53,7 @@ body{
 }
 
 
-@media (min-width:960px) {
+@media (min-width:760px) {
     body {
         background-color: #c7bc1d;
         display: block;
