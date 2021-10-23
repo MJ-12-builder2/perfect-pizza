@@ -14,7 +14,7 @@ body{
     padding: 1em;
     text-align: center;
     flex: 1;
-    display: flexbox;
+    display: inline-block;
     padding: 1em;
     margin-left: 1em;
     }
