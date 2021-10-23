@@ -13,24 +13,23 @@ body{
     margin: 1em;
     padding: 1em;
     margin-bottom: 0.5em;
-    margin-left: left;
     border-radius: 1em;
     display: inline-block;
     }
 
-.small_pizza{
+.Small_Pizza{
     background-color: #FFCF00;
     flex: 1;
   }
 
-.medium_pizza{
+.Medium_Pizza{
     background-color: #EE6123;
     flex: 1;
 }
 
-.large_pizza{
+.Large_Pizza{
     background-color: #FA003F;
-    flex: 2;
+    flex: 1;
     
 }
 
@@ -38,7 +37,7 @@ body{
 .Contact_Details{
     background-color: #56d700;
     text-align: center;
-
+    display: block;
 }
 
 
@@ -46,6 +45,5 @@ body{
     body {
         background-color: #c7bc1d;
         display: flex;
-        flex: 4;
     }
 }
