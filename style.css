@@ -15,7 +15,7 @@ body{
     margin-bottom: 0.5em;
     margin-left: left;
     border-radius: 1em;
-    display: flex;
+    display: flexbox;
     }
 
 .small_pizza{
@@ -45,13 +45,6 @@ body{
     body {
         background-color: #c7bc1d;
         display: flex;
-    }
-
-
-@media (min-width:760px) {  
-    body {
-            background-color: #4a90be;
-            display: flex;
-        }
+        flex: 4;
     }
 }
