@@ -1,58 +1,57 @@
 body{
-    background-color: #3a86ff;
+    background-color: #FEEFE5;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
-.perfect_pizza{
+.Perfect_Pizza{
     text-align: center;
 }
 
-
 .pizzas{
     /* box-model */
-    border: 1px solid #fcbf49;
+    border: 1px solid #00916e;
     margin: 1em;
     padding: 1em;
     margin-bottom: 0.5em;
-    border-radius: 0.5em;
+    margin-left: left;
+    border-radius: 1em;
     display: flex;
     }
 
 .small_pizza{
-    background-color: #ffbe0b;
+    background-color: #FFCF00;
     flex: 1;
   }
 
 .medium_pizza{
-    background-color: #fb5607;
+    background-color: #EE6123;
     flex: 1;
 }
 
 .large_pizza{
-    background-color: #ff006e;
+    background-color: #FA003F;
     flex: 1;
     
 }
 
 
 .Contact_Details{
-    background-color: #d4d700;
+    background-color: #56d700;
     text-align: center;
 }
 
 
 @media (min-width:960px) {
     body {
-        background-color: #e5e5e5;
-        display: block;
+        background-color: #c7bc1d;
+        display: flex;
     }
 
 
 @media (min-width:760px) {  
     body {
-            background-color: #e96ae2;
-            display: block;
+            background-color: #4a90be;
+            display: flex;
         }
     }
 }
