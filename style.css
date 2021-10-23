@@ -15,7 +15,7 @@ body{
     margin-bottom: 0.5em;
     margin-left: left;
     border-radius: 1em;
-    display: flexbox;
+    display: inline-block;
     }
 
 .small_pizza{
@@ -30,7 +30,7 @@ body{
 
 .large_pizza{
     background-color: #FA003F;
-    flex: 1;
+    flex: 2;
     
 }
 
